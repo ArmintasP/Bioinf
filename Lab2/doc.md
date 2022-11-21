@@ -48,4 +48,4 @@ Urbani SARS viruses have same came from the same parent as bat coronavirus (KP88
 
 ### The Origin of Palm Civet viruses
 
-The origin of Palm Civet viruses remain unknown as it was not included after applying various filtering criteria.
+The origin of Palm Civet viruses remains unknown as viruses were not included after applying various filtering criteria.
