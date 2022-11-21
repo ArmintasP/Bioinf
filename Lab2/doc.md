@@ -1,11 +1,14 @@
 ---
 title: 2 Homework Assignment
 author: Armintas Pakenis
+date: 2022-11-18
 affiliation: Vilnius University
 email: armintas.pakenis@mif.stud.vu.lt
-date: 2022-11-18
+
 abstract: Phylogenetic trees of Betacoronaviruses genomes related to NC_045512
 lang: en
+colorlinks: true
+links-as-notes: true
 ...
 
 # Introduction
@@ -13,7 +16,7 @@ lang: en
 Phylogenetic trees were generated following homework instructions. Outputs of some inner steps can be found [here](https://github.com/ArmintasP/Bioinf/tree/main/Lab2). The results consist of two trees: one without an outgroup and the other with MN514967.7 as an outgroup.
 
 # Methodology
-The following sequences were collected from[NCBI](https://www.ncbi.nlm.nih.gov/):
+The following sequences were collected from NCBI:
 - Betacoronaviruses relating to NC_045512 with coverage better than 50%.
 - NC_045512 sequence itself.
 - MN514967.1 (camel coronavirus).
